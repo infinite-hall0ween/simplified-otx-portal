@@ -1,7 +1,7 @@
 # Simplified Alienvault Portal 
 To quickly query OTX Alienvault from the comfort of your bed, on your phone, using your thumb. 
 
-Ideal for: busy parents whose children barely nap, as well as anyone else who needs to keep abreast of APTs and malware intel while also being really tired or otherwise pressed for time. Loads faster than the main site due to light weight/low graphics.
+Ideal for: busy parents whose children barely nap, as well as anyone else who needs to keep abreast of APTs and malware intel while also being really tired or otherwise pressed for time.
 
 ************************
 Busy people, unite!
