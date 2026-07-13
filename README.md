@@ -12,7 +12,8 @@ Busy people, unite!
 Addenda:
 -----------
 
-The portal was built with assistance from Claude for personal Fable use case testing and to derive an efficient solution for the way i currently use alienvault. 
+The portal was built with assistance from Claude for personal Fable use case testing and to derive an efficient solution for the way i currently use open source tools
+
 
 i have not yet completed a security audit of the code in this project, though i intend to get to that as soon as i can. Dependabot and private vuln. report sharing enabled in the interim.
 
